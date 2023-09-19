@@ -4,10 +4,9 @@
 
 body {
     background-image: url('D:/it-incubator/hws2/src/s2-homeworks/hw01/cloud.png');
-    margin-bottom: 50px;
 }
 
-.hw {
+.hw1, .hw2 {
     position: absolute;
     width: 1280px;
     height: 373px;
@@ -17,6 +16,7 @@ body {
 
 .hwTitle {
     margin-bottom: 40px;
+    margin-top: 40px;
     padding: 40px;
     width: auto;
     height: 30px;
